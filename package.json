@@ -1,0 +1,27 @@
+{
+  "name": "binance-trader",
+  "version": "1.0.0",
+  "description": "Automate trading on the binance exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtwphillips/binance-trader.git"
+  },
+  "keywords": [
+    "binance",
+    "trading",
+    "bot",
+    "crypto",
+    "cryptocurrency",
+    "bitcoin"
+  ],
+  "author": "Curt Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtwphillips/binance-trader/issues"
+  },
+  "homepage": "https://github.com/curtwphillips/binance-trader#readme"
+}
